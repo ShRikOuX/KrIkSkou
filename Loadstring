@@ -1,1 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ShRikOuX/KrIkSkou/main/Mini",true))()
+--[[
+Update 2 changelog:
+Fixed Visuals tab not showing
+--]]
